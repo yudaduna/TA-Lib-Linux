@@ -1,0 +1,15 @@
+1.	wget download from http://prdownloads.sourceforge.net/ta-lib/ta-lib-0.4.0-src.tar.gz
+
+2.	untar tar -xvf ta-lib-0.4.0-src.tar.gz
+
+3.	cd /ta-lib
+
+4.	./configure --prefix=/usr
+
+5.	make
+
+6.	sudo make install
+
+7.	sudo apt upgrade
+
+8. pip install ta-lib or pip install TA-Lib
